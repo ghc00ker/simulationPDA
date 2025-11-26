@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -g "CMakeFiles/pda.dir/pda-project/src/PDA.cpp.o" "CMakeFiles/pda.dir/pda-project/src/main.cpp.o" "CMakeFiles/pda.dir/pda-project/src/read_file.cpp.o" -o /home/c00ker/FLA/simulationPDA/bin/pda

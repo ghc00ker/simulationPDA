@@ -1,0 +1,15 @@
+; L = {a,b}^* and |a| = |b|
+#Q = {q0,q1,q2}
+#S = {a,b}
+#G = {a,b,z}
+#q0 = q0
+#z0 = z
+#F = {q0}
+q0 a z q1 az
+q0 b z q2 bz
+q1 a a q1 aa
+q1 b a q1 _
+q1 _ z q0 z
+q2 b b q2 bb
+q2 a b q2 _
+q2 _ z q0 z
